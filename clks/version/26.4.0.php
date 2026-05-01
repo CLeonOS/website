@@ -12,7 +12,7 @@
         <p>This is the first update for this kernel, so there is no changelog.</p>
 
         <h2>-- Maintainer of This Update --</h2>
-        <p>@Leonmmcoset</p>
+        <p>@<a href="../dev/leonmmcoset.php">Leonmmcoset</a>| Developer</p>
 
         <h2>-- Additional Notes --</h2>
         <p>
