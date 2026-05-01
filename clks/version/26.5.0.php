@@ -12,6 +12,6 @@
         <p>Deprecated CMake and switched to the new BDT build system.</p>
 
         <h2>-- Maintainer of This Update --</h2>
-        <p>@Leonmmcoset</p>
+        <p>@<a href="../dev/leonmmcoset.php">Leonmmcoset</a>| Developer</p>
     </body>
 </html>
