@@ -9,9 +9,9 @@
 
         <h1>CLeonOS</h1>
         
-        <h2>-- Main Text --</h2>
+        <h2>Main Text</h2>
 
-        <p>Experimental x86_64 operating system project with a C kernel, Rust-assisted runtime pieces, user-space ELF apps, and a stage-based development history.</p>
+        <p>Experimental x86_64 operating system project with a C kernel, Rust-assisted runtime pieces, and user-space ELF apps.</p>
 
         <h2>Highlights</h2>
 
@@ -146,7 +146,6 @@
 
         <ol>
             <li>Fork and create a feature branch.</li>
-            <li>Keep changes stage-oriented and update docs when behavior changes.</li>
             <li>Run at least <code>make iso</code> before opening a PR.</li>
             <li>Include boot log snippets or screenshots for kernel/user visible changes.</li>
         </ol>
@@ -160,7 +159,7 @@
 
         <p>This article was copied from Github</p>
 
-        <h2>-- Maintainer of This Update --</h2>
+        <h2>Maintainer of This Update</h2>
         <p>@<a href="../dev/leonmmcoset.php">Leonmmcoset</a>| Developer</p>
         <p>@<a href="../dev/jgzyes.php">JGZ_YES</a>| Moving article & Edit</p>
     </body>

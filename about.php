@@ -7,7 +7,7 @@
             include "header.php";
         ?>
         <h1>About</h1>
-        <p>Experimental x86_64 operating system project with Rust-assisted runtime Rust-assisted runtime pieces, user-space ELF apps, and a stage-based development history.</p>
+        <p>Experimental x86_64 operating system project with a C kernel, Rust-assisted runtime pieces, and user-space ELF apps.</p>
 
         <h2>Highlights:</h2>
         <ul>
