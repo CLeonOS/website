@@ -6,7 +6,7 @@
         <?php
             include "../../header.php";
         ?>
-        <h1>CLKS 25.5.1</h1>
+        <h1>CLKS 26.5.1</h1>
 
         <h2>Update Details</h2>
         <ul>
